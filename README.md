@@ -25,4 +25,4 @@ atividades práticas para aumentar a minha experiência. Sou dedicado e gosto de
 
 - gustavocapelli20092005@gmail
 
-![Snake animation](https://github.com/devcapelli/devcapelli/tree/main)
+![snake gif](https://github.com/devcapelli/devcapelli/blob/output/github-contribution-grid-snake.svg)
