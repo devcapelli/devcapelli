@@ -24,5 +24,3 @@ atividades práticas para aumentar a minha experiência. Sou dedicado e gosto de
 ### Para entrar em contato comigo, basta contatar o email abaixo:
 
 - gustavocapelli20092005@gmail
-
-![snake gif](https://github.com/devcapelli/devcapelli/blob/output/github-contribution-grid-snake.svg)
