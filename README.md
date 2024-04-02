@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/capelli_gu?igsh=Z3A1ZWdrbG1ldmFw)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gustavo.capelli.3591?mibextid=ZbWKwL)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-capelli-a363022b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199580658118/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcapelli&show_icons=true&theme=radical)
 
