@@ -20,6 +20,6 @@ efetivação. No momento, estou cursando Desenvolvedor Full Stack Python na Inst
 JavaScript, Python, entre outras ferramentas. Além de conter diversos projetos e
 atividades práticas para aumentar a minha experiência. Sou dedicado e gosto de aprender.
 
-### Para entrar em contato comigo, basta acessar o link do meu email abaixo:
+### Para entrar em contato comigo, basta contatar o email abaixo:
 
-- [ Email para contato ](gustavocapelli20092005@gmail.com)
+- gustavocapelli20092005@gmail.com
