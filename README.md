@@ -22,4 +22,4 @@ atividades práticas para aumentar a minha experiência. Sou dedicado e gosto de
 
 ### Para entrar em contato comigo, basta contatar o email abaixo:
 
-- gustavocapelli20092005@gmail.com
+- gustavocapelli20092005@gmail
